@@ -1,19 +1,22 @@
-.container {
-  max-width: 800px;
-  text-align: center;
-  display: flex;
+body {
+  background-image: url("https://images.clipartlogo.com/files/istock/previews/9141/91416321-cute-cats-seamless-pattern-black-and-white-background.jpg");
+  background-color: #ccc;
 }
 
 .main {
+  max-width: 700px;
+  text-align: center;
+  margin: 30px auto;
   border: 1px solid black;
   width: 80%;
+  background-color: #ccc;
 }
 
 img {
-  border: 1px solid #ce9400;
+  border: 2px solid #ce9400;
   max-width: 80%;
 }
 
 img:hover {
-  box-shadow: 5px 5px 15px #ce9400
+  box-shadow: 3px 3px 10px #ce9400
 }
