@@ -1,0 +1,19 @@
+.container {
+  max-width: 800px;
+  text-align: center;
+  display: flex;
+}
+
+.main {
+  border: 1px solid black;
+  width: 80%;
+}
+
+img {
+  border: 1px solid #ce9400;
+  max-width: 80%;
+}
+
+img:hover {
+  box-shadow: 5px 5px 15px #ce9400
+}
