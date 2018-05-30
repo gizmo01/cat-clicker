@@ -1,6 +1,7 @@
 body {
-  background-image: url("https://images.clipartlogo.com/files/istock/previews/9141/91416321-cute-cats-seamless-pattern-black-and-white-background.jpg");
+  background-image: url('img/pattern.jpg');
   background-color: #ccc;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 .main {
@@ -19,4 +20,8 @@ img {
 
 img:hover {
   box-shadow: 3px 3px 10px #ce9400
+}
+
+p {
+  font-size: 2em;
 }
