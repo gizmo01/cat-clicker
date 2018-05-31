@@ -1,0 +1,31 @@
+body {
+  background-image: url('images/pattern.jpg');
+  background-color: #ccc;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 1.5em;
+}
+
+#clicks1, #clicks2 {
+  font-size: 1.6em
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+  max-width: 700px;
+  text-align: center;
+  margin: 30px auto;
+  border: 1px solid #000;
+  background-color: #eee;
+}
+
+img {
+  border: 1px solid #171511;
+  border-radius: 2px;
+  cursor: pointer;
+  width: 90%
+}
+
+img:hover {
+  box-shadow: 3px 3px 10px #171511;
+}
