@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.list>button {
+  display: block;
+  line-height: 200%;
+}
+
+.display {
+  width: 80%;
+  text-align: center;
+}
+
+.list {
+  width: 20%;
+}
+
+img {
+  width: 90%;
+  border: 1px solid black;
+}
