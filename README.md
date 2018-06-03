@@ -18,7 +18,7 @@ Cat clicker project for Udacity FEND
 ### Interaction
 * The number of clicks should increment when each cat picture is clicked.
 
-## Project Requirements for Cat Clicker Premium
+## Project Requirements for Cat Clicker Premium
 ### Visuals
 * The application should display
   * a list of at least 5 cats, listed by name
