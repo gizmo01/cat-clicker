@@ -22,3 +22,15 @@ img {
   width: 90%;
   border: 1px solid black;
 }
+
+.admin {
+  width: 10%;
+}
+
+form {
+  width: 50%;
+}
+
+.hide {
+  display: none;
+}
